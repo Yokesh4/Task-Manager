@@ -51,7 +51,8 @@ Server will run on `http://localhost:5000`
 | DELETE | /tasks/:id   | Delete a task       |
 
 ## 📸 Screenshots
-![Task Manager UI](screenshots/task-manager-ui.png)
+![Task Manager UI](https://raw.githubusercontent.com/Yokesh4/task-manager/main/screenshots/task-manager-ui.png)
+
 
 ## 📌 Future Improvements
 - ✅ User Authentication
